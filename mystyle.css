@@ -1,0 +1,16 @@
+
+.titulo {
+    background-color: chartreuse;
+}
+
+#popcorn {
+    background-color: brown;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 25px;
+}
+
+.title {
+    color: red;
+}
+
